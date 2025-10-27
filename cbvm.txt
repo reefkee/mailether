@@ -1,4 +1,4 @@
-  GNU nano 6.2                                                                                                                                                                                                                                                                                                                                                     acbvm_keys.txt
+
 ACBVM-6IZUO-044VZ-CWQBX
 ACBVM-5ZG5Q-MCVF8-94W4C
 ACBVM-VRVD6-DUN9B-C9ZBI
